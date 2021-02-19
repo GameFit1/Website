@@ -10,23 +10,20 @@ header{
     text-align: center;
     width: 100%;
     height: 100px;
-    background: rgb(71, 63, 63)
+    background: #ccc;
 }
 
 header h1{
     padding-top: 25px;
-    color: #fff;
 }
 
 .container{
     margin: auto;
     width :500px;
-    height: 175px;
+    height: 340px;
     text-align: left;
-    background: rgb(85, 80, 80);
+    background: #ccc;
     margin-top: 50px;
-    border: 5px solid rgb(65, 61, 61);
-    border-radius: 7px;
 }
 
 #my-form{
@@ -53,7 +50,7 @@ header h1{
 }
 
 .btn{
-    background-color: rgb(42, 38, 38);
+    background-color: #333;
     width: 400px;
     height: 50px;
     color: #fff;
@@ -65,9 +62,10 @@ header h1{
 }
 
 .btn:hover{
-    background-color: rgb(29, 27, 27);
+    background-color: #333;
     width: 400px;
     height: 50px;
+    color: rgb(151, 151, 151);
     font-size: 25px;
     border: none;
     border: 1px #333 solid;
