@@ -21,7 +21,7 @@ header h1{
 .container{
     margin: auto;
     width :500px;
-    height: 175px;
+    height: 110px;
     text-align: left;
     background: rgb(85, 80, 80);
     margin-top: 50px;
@@ -50,6 +50,7 @@ header h1{
     position: relative;
     top: 30px;
     margin-bottom: 15px;
+    font-size: 
 }
 
 .btn{
